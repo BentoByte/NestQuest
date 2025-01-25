@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - LootTracker
+  - GM
+  - Badge
+  - Charm
+  - TileSnap
+  - PopUpper
+  - Wind
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - ButtonBadge
+  - Water
+  - UI
+  - Badge
+  - DontCollideWithPlayer
+  - G
+  - SlapMe
+  - 
+  - Post
+  - Birb
+  - 
+  - Bois
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: SKY
+    uniqueID: 446388863
+    locked: 0
+  - name: Backiest Back Back
+    uniqueID: 1643400083
+    locked: 0
+  - name: EverBackyerBack
+    uniqueID: 3953363829
+    locked: 0
+  - name: BackGround
+    uniqueID: 3276306199
+    locked: 0
+  - name: ForeBack
+    uniqueID: 3182646245
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ForeFore
+    uniqueID: 3625032483
+    locked: 0
+  - name: ForeGround
+    uniqueID: 1317883875
+    locked: 0
+  - name: Front Fore Ground
+    uniqueID: 1432658229
+    locked: 0
+  - name: UI
+    uniqueID: 3228125713
+    locked: 0

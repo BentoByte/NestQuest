@@ -1,0 +1,1 @@
+INCLUDE GlobalNOTSTORY.ink

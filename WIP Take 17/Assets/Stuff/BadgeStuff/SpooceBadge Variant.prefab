@@ -1,0 +1,218 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3499149250095807499
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -4583746576281951498, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: BadgeName
+      value: SpooceFriendTM
+      objectReference: {fileID: 0}
+    - target: {fileID: -4583746576281951498, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: BadgeDescript
+      value: This is a goofy goober!
+      objectReference: {fileID: 0}
+    - target: {fileID: 380343319085704703, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 3.3306673
+      objectReference: {fileID: 0}
+    - target: {fileID: 380343319085704703, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 4.6442347
+      objectReference: {fileID: 0}
+    - target: {fileID: 380343319085704703, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: m_Offset.y
+      value: 0.011871338
+      objectReference: {fileID: 0}
+    - target: {fileID: 380343319085704703, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 3.57
+      objectReference: {fileID: 0}
+    - target: {fileID: 380343319085704703, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 4.63
+      objectReference: {fileID: 0}
+    - target: {fileID: 648050968998234584, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 83d98db36deed3549887024812a2326c,
+        type: 3}
+    - target: {fileID: 1807917695432379944, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1807917695432379944, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 52.829094
+      objectReference: {fileID: 0}
+    - target: {fileID: 1807917695432379944, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 64.20025
+      objectReference: {fileID: 0}
+    - target: {fileID: 1807917695432379944, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4361.6226
+      objectReference: {fileID: 0}
+    - target: {fileID: 1807917695432379944, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 794.42737
+      objectReference: {fileID: 0}
+    - target: {fileID: 1807917695432379944, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1807917695432379944, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1807917695432379944, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1807917695432379944, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1807917695432379944, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1807917695432379944, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1807917695432379944, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1807917695432379944, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1807917695432379944, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3485021125415505436, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: BadgeID
+      value: doll
+      objectReference: {fileID: 0}
+    - target: {fileID: 3485021125415505436, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: BadgeName
+      value: SpoceDollTM
+      objectReference: {fileID: 0}
+    - target: {fileID: 3485021125415505436, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: BadgeDescript
+      value: Crouch and jump to create a spooce doll decoy, he will distract some
+        enemies and explode and freeze enemies opon being destroyed.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3485021125415505436, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: DontPlaceColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4480843722478247656, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 3.3306673
+      objectReference: {fileID: 0}
+    - target: {fileID: 4480843722478247656, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 4.6442347
+      objectReference: {fileID: 0}
+    - target: {fileID: 4480843722478247656, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: m_Offset.x
+      value: -0.037950635
+      objectReference: {fileID: 0}
+    - target: {fileID: 4480843722478247656, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: m_Offset.y
+      value: 0.011871338
+      objectReference: {fileID: 0}
+    - target: {fileID: 4480843722478247656, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4480843722478247656, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4480843722478247656, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4480843722478247656, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4480843722478247656, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 3.57
+      objectReference: {fileID: 0}
+    - target: {fileID: 4480843722478247656, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 4.63
+      objectReference: {fileID: 0}
+    - target: {fileID: 4480843722478247656, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.adaptiveTilingThreshold
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6946969650212726582, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: m_Name
+      value: SpooceBadge Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 6946969650212726582, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: m_TagString
+      value: Badge
+      objectReference: {fileID: 0}
+    - target: {fileID: 7658158160485046556, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.6304173
+      objectReference: {fileID: 0}
+    - target: {fileID: 7658158160485046556, guid: 12ad0bfb8111fff43ab05f71aabca095,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.2455337
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 12ad0bfb8111fff43ab05f71aabca095, type: 3}
